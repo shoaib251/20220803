@@ -1,0 +1,22 @@
+header{color: rgb(215, 231, 250);
+    background-color: darkslategray;
+font-size: 60%;
+text-align: center;
+height: 100%;}
+article{ color: aqua;
+    background-color: blueviolet;
+padding: 10ps;
+margin-top: 5px;
+flex: 170px;
+}
+section{display: flex;
+    flex-flow: row wrap;
+    text-align: center;} 
+    img{width: 335px;
+height: 335px;}
+h1{font-size: 70px;
+color: darkmagenta;}
+h2{font-size: 50px;
+color: yellowgreen;}
+p{font-size: 15px;
+color: black;}
